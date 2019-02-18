@@ -1,0 +1,41 @@
+,Postalcode,name,categories,address,crossStreet,distance,lat,lng,id,numbertips,rating,profitrate,AmericanRestaurant,Breakfast Spot,OtherRestaurant,AsianRestaurant,Bar/Club,PedVol,VehVol,categoricprofit
+0,M5B,Subway,Sandwich Place,10 Dundas St. E,at Yonge St.,188.0,43.656259989688905,-79.38091959903076,4c6abb8c2c29d13ad2720e41,3.0,5.8,17.4,1,0,0,0,0,34615,10925,Failure
+1,M5K,Epic,Wine Bar,100 Front Street West,,187.0,43.64551466995504,-79.38123877444932,4ad4c05df964a5203af620e3,28.0,6.9,193.20000000000002,0,0,0,0,1,17564,16857,Failure
+2,M5K,McDonald's,Fast Food Restaurant,61 Front St. W.,in Union Station,182.0,43.64614602536185,-79.37982197489902,4b8d36f8f964a520c7ed32e3,8.0,4.7,37.6,1,0,0,0,0,17115,18965,Failure
+3,M5L,Ninki Sushi,Japanese Restaurant,40 King St W,at Bay St,181.0,43.649812174244005,-79.37951837924346,4beb2c0ba9900f475b7a1740,15.0,5.7,85.5,0,0,0,1,0,11224,12454,Failure
+4,M5L,Over Easy,Breakfast Spot,56 Yonge St,at Melinda St,179.0,43.64807704204346,-79.37759871575396,4b06e099f964a52002f222e3,32.0,7.7,246.4,0,1,0,0,0,26656,13620,Viable
+5,M5B,The Senator Restaurant,Diner,249 Victoria Street,btwn Dundas St E and Shuter St,170.0,43.65564091455335,-79.37919882575557,4ad7929cf964a520500c21e3,94.0,8.2,770.8,0,0,1,0,0,10912,8889,Success
+6,M5L,Vineyard Jamaican Restaurant,Caribbean Restaurant,,,169.0,43.64955,-79.38078,4ba2ab4af964a520650e38e3,0.0,5.0,0.0,0,0,1,0,0,28424,16489,Failure
+7,M5T,Rol San Restaurant 龍笙棧,Dim Sum Restaurant,323 Spadina Ave.,at D'Arcy St.,167.0,43.65431754076345,-79.39864998374682,4ad4c060f964a5207ff720e3,93.0,7.5,697.5,0,0,0,1,0,2635,8810,Success
+8,M5T,Pho Hung,Vietnamese Restaurant,350 Spadina Ave.,at St Andrews St.,165.0,43.654434,-79.398883,4ad4c060f964a52056f720e3,76.0,7.8,592.8,0,0,0,1,0,2635,8810,Success
+9,M4Y,Coach House Restaurant,Diner,574 Yonge St.,Wellesley,164.0,43.66499059853204,-79.38481415727767,4b2d27b4f964a520a6cf24e3,13.0,8.0,104.0,0,0,1,0,0,19591,9051,Failure
+10,M5L,Restaurant | Adelaide,Restaurant,325 Bay St (31st floor),,164.0,43.649563,-79.38059,5a7c3e079de23b294a2c4117,0.0,5.0,0.0,1,0,0,0,0,28424,16489,Failure
+11,M5H,Osgoode Hall Restaurant,New American Restaurant,130 Queen St W,University Ave,161.0,43.651978959035155,-79.3850485857013,4cffc78a75d3236a3b10e7f7,4.0,5.0,20.0,1,0,0,0,0,7961,8557,Failure
+12,M5T,Sky Dragon Chinese Restaurant 龍翔酒樓,Dim Sum Restaurant,280 Spadina Ave.,at Dundas St. W.,158.0,43.65278331265585,-79.39817372355205,4b072e9df964a52009f922e3,21.0,6.2,130.20000000000002,0,0,0,1,0,26960,11107,Failure
+13,M5T,Swatow Restaurant 汕頭小食家,Chinese Restaurant,309 Spadina Ave.,btwn Dundas St. W & D'Arcy St.,156.0,43.65386562507761,-79.39833353339202,4ae29812f964a520288f21e3,51.0,7.9,402.90000000000003,0,0,0,1,0,2635,8810,Viable
+14,M5T,Canteen Restaurant,Chinese Restaurant,"280 Spadina Ave, Unit L, 2nd Fl.",at Dundas St W,149.0,43.6528214686215,-79.39827498252554,4ae7710bf964a52057ab21e3,6.0,5.5,33.0,0,0,0,1,0,26960,11107,Failure
+15,M5T,King's Noodle House 富豪麵家,Chinese Restaurant,296 Spadina Ave,at Dundas St W,148.0,43.6530891014144,-79.39821356650025,4ae74cfaf964a5202eaa21e3,55.0,7.2,396.0,0,0,0,1,0,26960,11107,Viable
+16,M5C,Pearl Diver,Gastropub,100 Adelaide St E,Jarvis,146.0,43.651481290733734,-79.37359954211877,4ad8ad9bf964a520a51321e3,55.0,8.5,467.5,0,0,0,0,1,7083,17770,Viable
+17,M5W,Fran's,Diner,33 Yonge St,at Front St. E,141.0,43.647364016367966,-79.3760469880873,4c6960a08e7c0f470a68df0f,50.0,6.3,315.0,0,0,1,0,0,10950,10996,Viable
+18,M5T,Dumpling House,Dumpling Restaurant,328 Spadina Avenue,at Glenbaillie Pl,140.0,43.65386003934455,-79.3985583639792,4b119787f964a520188023e3,62.0,8.1,502.2,0,0,0,1,0,2635,8810,Success
+19,M5T,Saigon Lotus Restaurant,Vietnamese Restaurant,6 Saint Andrew St,Spadina Ave,139.0,43.654310800343325,-79.39922450076845,58a7c100076be13f60d1dff5,3.0,8.4,25.200000000000003,0,0,0,1,0,2635,8810,Failure
+20,M5T,Ka Chi Korean Restaurant,Korean Restaurant,8 St Andrew St.,at Spadina Ave.,137.0,43.654306552286656,-79.3992765578534,4ba2d00cf964a5203e1b38e3,21.0,7.1,149.1,0,0,0,1,0,2635,8810,Failure
+21,M5T,Bright Pearl Seafood Restaurant,Chinese Restaurant,346-348 Spadina Avenue,,135.0,43.654219,-79.399125,4ad4c05ff964a5200bf720e3,6.0,5.0,30.0,0,0,0,1,0,2635,8810,Failure
+22,M5H,Barristers Bar,Restaurant,145 Richmond Street West,Hilton Toronto,131.0,43.64979669604817,-79.3858073393927,50ca02be245f2d4aa8c2ab5b,0.0,5.0,0.0,1,0,0,0,0,5525,20727,Failure
+23,M5X,Reds Wine Tavern,Gastropub,77 Adelaide Street West,near Bay Street,127.0,43.64957038171473,-79.38212873483711,4ad4c05df964a52026f620e3,35.0,7.8,273.0,0,0,0,0,1,6037,8550,Viable
+24,M5L,Ki Modern Japanese + Bar,Japanese Restaurant,181 Bay St,at Wellington St. W,126.0,43.64710349021134,-79.37938978621831,4ae73054f964a5203ca921e3,59.0,8.4,495.6,0,0,0,1,0,32319,16188,Viable
+25,M5X,Earls Kitchen & Bar,Bar,150 King St. W.,at York St.,126.0,43.647945662980305,-79.3837058277153,4d2b615e342d6dcb2b8115cb,115.0,7.9,908.5,0,0,0,0,1,20091,12474,Success
+26,M5K,Stratus,Restaurant,79 Wellington St W,at Piper St,126.0,43.64618144730835,-79.38080934737143,4b231e82f964a5208e5324e3,4.0,6.1,24.4,1,0,0,0,0,32319,16188,Failure
+27,M5C,B.L.D Restaurant,New American Restaurant,36 Toronto St,Adelaide,122.0,43.6508315945072,-79.37663892404116,4c38f3fc0a71c9b6f6ad41c9,8.0,5.0,40.0,1,0,0,0,0,18326,9968,Failure
+28,M5T,Yoo J Express Restaurant (Purple Place! ),Chinese Restaurant,280 Spadina Ave,Dundas St.,116.0,43.652564476551404,-79.3989031071905,51b604a0498e2384782ee1ef,1.0,5.0,5.0,0,0,0,1,0,26960,11107,Failure
+29,M5C,Golden Thai Restaurant,Thai Restaurant,105 Church St,at Richmond St E,114.0,43.65252473089013,-79.37536916039467,4ad4c061f964a520a7f720e3,30.0,7.2,216.0,0,0,0,1,0,7179,10374,Viable
+30,M5T,The Boat Restaurant,Nightclub,158 Augusta Ave,Dundas St W,113.0,43.652938231333486,-79.40141026049001,4ad4c05ff964a52040f720e3,15.0,6.0,90.0,0,0,0,0,1,4598,9481,Failure
+31,M5H,Tundra Restaurant,Restaurant,145 Richmond Street West,Hilton Toronto,104.0,43.650009987649646,-79.38560774268629,50ca02c0245f2d4aa8c2b313,12.0,6.9,82.80000000000001,1,0,0,0,0,5525,20727,Failure
+32,M5T,Sang Ho Seafood Restaurant,Chinese Restaurant,536 Dundas St W,Dundas/Spadina,97.0,43.65274725995042,-79.39902086744584,4b772c00f964a52097842ee3,1.0,7.0,7.0,0,0,0,1,0,26960,11107,Failure
+33,M5C,L'Apero Restaurant,Restaurant,81 Church Street,,88.0,43.65182,-79.37441,4dff2649d22d48be8127cd1c,0.0,5.0,0.0,1,0,0,0,0,9692,13816,Failure
+34,M5L,Jump,American Restaurant,18 Wellington St. W,btwn. Yonge St. and Bay St.,85.0,43.64814738516352,-79.37875242540652,4ad4c060f964a52057f720e3,24.0,7.6,182.39999999999998,1,0,0,0,0,32319,16188,Failure
+35,M5C,NAMI,Japanese Restaurant,55 Adelaide Street East,at Church street,80.0,43.650853361785124,-79.37588746641697,4b999927f964a5207c8635e3,33.0,8.1,267.3,0,0,0,1,0,9692,13816,Viable
+36,M5T,Kim Vietnamese Restaurant,Vietnamese Restaurant,546 Dundas St W,,74.0,43.652748,-79.399377,59eccc99dff8150ccdd70355,0.0,5.0,0.0,0,0,0,1,0,26960,11107,Failure
+37,M5C,Terroni,Italian Restaurant,57 Adelaide St. E,at Church St.,64.0,43.650927,-79.375602,4b49183ff964a520a46526e3,92.0,8.8,809.6,0,0,1,0,0,9692,13816,Success
+38,M5T,Kensington Cornerstone Restaurant,Breakfast Spot,2A Kensington Ave.,Dundas St. W,45.0,43.65280330843737,-79.39995806711424,4bce1ec0cc8cd13a9ac8c3cf,15.0,5.8,87.0,0,1,0,0,0,26960,11107,Failure
+39,M5K,Canoe,Restaurant,66 Wellington St West,at Bay Street,36.0,43.647452066183476,-79.38132001815676,4ad4c05df964a52059f620e3,74.0,9.1,673.4,1,0,0,0,0,47561,15543,Success
